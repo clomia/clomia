@@ -2,8 +2,6 @@
 - 나이는 20살이에요
 - 연락은 clomia.sig@gmail.com으로 부탁드려요
 
-(깃헙이 한번 써보래서 임시로 작성해놨어요)
-
 <!---
 clomia/clomia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
