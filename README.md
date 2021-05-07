@@ -1,4 +1,4 @@
-- 안녕하세요. clomia에요.
+- 안녕하세요. clomia에요. 본명은 '원정후' 입니다.
 
 <!---
 clomia/clomia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
