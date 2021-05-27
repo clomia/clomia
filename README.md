@@ -1,4 +1,4 @@
-- 안녕하세요.
+- 안녕하세요. 현재 AI를 공부중입니다...
 
 <!---
 clomia/clomia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
