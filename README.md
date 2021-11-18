@@ -5,7 +5,7 @@
 좋아하는 웹 개발 스택: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
 
-사용하는 디자인 툴: <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+사용하는 디자인 툴: <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>  
 
 --- 
 
@@ -18,7 +18,7 @@
 2020년 10월 31일: [Nomad Coders Python 챌린지 수료](https://nomadcoders.co/certs/96ae9432-a982-420f-b113-39c9874e30ea)  
 2020년 11월 26일: [Nomad Coders HTML/CSS 챌린지 수료](https://nomadcoders.co/certs/26a76bfd-8f67-4ecd-a886-fd64b40a2797)  
 2020년 12월 13일: [Nomad Coders JS 챌린지 수료](https://nomadcoders.co/certs/ad5f31f6-5cf7-4662-b036-216c6b28a91c)  
-2021년 01월 11일: 인천디자인고등학교 졸업  
+2021년 01월 11일: 인천디자인고등학교 졸업- [[학교에서 디자인 했던것들](https://drive.google.com/drive/folders/1_1Cksyt6F45RM-ns83zk1an6VkIN-xFg?usp=sharing)]    
 2021년 03월 15일: [Clomia-Network 프로젝트](https://github.com/clomia/Clomia-Network) - [[프로그램 시연영상](https://youtu.be/Vqp2ksNoa38)]  
 2021년 04월 28일: [LifeGame v1.0.0 프로젝트](https://github.com/clomia/LifeGame) - [[게임 시연영상](https://youtu.be/MCcvHmha7Hc)]  
 2021년 05월 06일: [코드스테이츠 AI 부트캠프 합류](https://www.codestates.com/course/ai)  
