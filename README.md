@@ -35,4 +35,3 @@
   
     
 [Nomad Coders GitHub List](https://github.com/nomadcoders/nomadcoders-github-list)  
-<img src="https://for-me.s3.ap-northeast-2.amazonaws.com/%EC%9B%90%EC%A0%95%ED%9B%84.pdf"/>
