@@ -32,22 +32,7 @@
 2020년 02월 15일: [육담원 브랜드 로고 디자인](https://drive.google.com/file/d/1OarcWQuopA1BDjU7ZNhAms40yZHnpZd-/view?usp=sharing)  
 2019년 11월 29일: [대한민국 불리온 디자인 공모전 출품](https://drive.google.com/file/d/1GfyTq8LSErdfTZ3X0A1rv0Yly2osHsbp/view?usp=sharing)  
 2018년 03월 02일: 인천디자인고등학교 입학  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
-[Nomad Coders GitHub List](https://github.com/nomadcoders/nomadcoders-github-list)
+  
+    
+[Nomad Coders GitHub List](https://github.com/nomadcoders/nomadcoders-github-list)  
+<img src="https://for-me.s3.ap-northeast-2.amazonaws.com/%EC%9B%90%EC%A0%95%ED%9B%84.pdf"/>
