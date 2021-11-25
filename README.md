@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/channel/UC3hoOpPL4Y3hJjfuoRJr_zw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
 --- 
-Python 프로젝트 이력
+대표적인 Python 프로젝트 이력입니다.
 
 2021년 10월 20일: **[Aribi 서비스 개발/런칭](https://clomia.aribi.community/) - [[프로젝트 발표영상](https://youtu.be/AGE5lyE0TgU)]**  
 2021년 09월 03일: [Book2Vec 프로젝트](https://github.com/clomia/Book2Vec)  
