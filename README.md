@@ -4,7 +4,7 @@
 불가능해 보이는 것에 도전하고 성공하는것에 익숙해진 개발자  
 ```  
 정말 어려웠던 경험들: [LifeGame - 기술적 이슈(로딩시간) 해결](https://github.com/clomia/LifeGame/wiki/%EA%B8%B0%EC%88%A0%EC%A0%81-%EC%9D%B4%EC%8A%88) , [Clomia-Network - 통신 프로토콜 개발](https://clomia.notion.site/cbf8c7e77a484323a3d386242178c7cf)  
-
+  
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clomia&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,4 +24,5 @@
 2021년 03월 15일: [Clomia-Network 프로젝트](https://github.com/clomia/Clomia-Network) - [[프로그램 시연영상](https://youtu.be/Vqp2ksNoa38)]  
   
     
-[Nomad Coders GitHub List](https://github.com/nomadcoders/nomadcoders-github-list)  
+### Contact  
+이메일: <a href="mailto:﻿clomia.sig@gmail.com">clomia.sig@gmail.com</a>  
