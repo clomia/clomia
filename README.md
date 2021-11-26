@@ -23,6 +23,8 @@
 2021년 04월 28일: [LifeGame v1.0.0 프로젝트](https://github.com/clomia/LifeGame) - [[게임 시연영상](https://youtu.be/MCcvHmha7Hc)]  
 2021년 03월 15일: [Clomia-Network 프로젝트](https://github.com/clomia/Clomia-Network) - [[프로그램 시연영상](https://youtu.be/Vqp2ksNoa38)]  
   
+---
+코드스테이츠 AI 부트캠프 3기 수료
     
 ### Contact  
 이메일: <a href="mailto:﻿clomia.sig@gmail.com">clomia.sig@gmail.com</a>  
