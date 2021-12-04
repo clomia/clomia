@@ -23,7 +23,10 @@
 2021년 03월 15일: [Clomia-Network 프로젝트](https://github.com/clomia/Clomia-Network) - [[프로그램 시연영상](https://youtu.be/Vqp2ksNoa38)]  
   
 ---
-2021년 11월 26일: 코드스테이츠 AI 부트캠프 3기 수료
+2021년 11월 26일: 코드스테이츠 AI 부트캠프 3기 수료  
+> ### [YouTube](https://youtube.com/playlist?list=PL0d9PuyF3-DHezDGHozijVkLuy4cKf5Tc)  
+> 프로젝트 영상자료를 정리한 플레이리스트입니다. 올해 초에 개발한 대표적인 프로덕트 두 개의 시연 영상과   
+> 코드스테이츠 AI 부트캠프에 들어와서 진행한 프로젝트 6개의 발표 영상이 있습니다.  
     
 ### Contact  
 이메일: <a href="mailto:﻿clomia.sig@gmail.com">clomia.sig@gmail.com</a>  
