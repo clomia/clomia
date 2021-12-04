@@ -12,7 +12,7 @@
 
 사용하는 디자인 툴: <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>  
 
-<a href="https://www.youtube.com/channel/UC3hoOpPL4Y3hJjfuoRJr_zw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
+<a href="https://youtube.com/playlist?list=PL0d9PuyF3-DHezDGHozijVkLuy4cKf5Tc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
 --- 
 대표적인 Python 프로젝트 이력입니다.
