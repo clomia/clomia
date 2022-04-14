@@ -17,7 +17,7 @@
 --- 
 대표적인 Python 프로젝트 이력입니다.
 
-2021년 10월 20일: **[Aribi 서비스 개발/런칭](https://clomia.aribi.community/) - [[프로젝트 발표영상](https://youtu.be/AGE5lyE0TgU)]**  
+2021년 10월 20일: **[Aribi 서비스 개발/런칭](https://github.com/clomia/aribi) - [[프로젝트 발표영상](https://youtu.be/AGE5lyE0TgU)]**  
 2021년 09월 03일: [Book2Vec 프로젝트](https://github.com/clomia/Book2Vec)  
 2021년 04월 28일: [LifeGame v1.0.0 프로젝트](https://github.com/clomia/LifeGame) - [[게임 시연영상](https://youtu.be/MCcvHmha7Hc)]  
 2021년 03월 15일: [Clomia-Network 프로젝트](https://github.com/clomia/Clomia-Network) - [[프로그램 시연영상](https://youtu.be/Vqp2ksNoa38)]  
