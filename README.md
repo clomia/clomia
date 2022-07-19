@@ -1,4 +1,6 @@
-# Python Specialist & Data Engineer
+# Python Specialist & Data Engineer  
+
+[Blog](https://clomia.oopy.io/de9e7df2-43b7-4bf6-876a-43b8830708f9)
 
 2022년 01월 03일: 수성엔지니어링 플랫폼 개발팀 입사  
 2021년 11월 26일: 코드스테이츠 AI 부트캠프 3기 수료  
