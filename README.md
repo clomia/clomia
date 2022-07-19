@@ -1,4 +1,4 @@
-# Python Back-end Developer 원정후입니다  
+# Python Specialist & Data Engineer
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clomia&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
