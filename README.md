@@ -1,6 +1,5 @@
 # Python Specialist & Data Engineer
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clomia&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-r
 대표적인 사이드 프로젝트
 
 2021년 10월 20일: [Aribi 서비스 개발/런칭](https://github.com/clomia/aribi) - [[프로젝트 발표영상](https://youtu.be/AGE5lyE0TgU)]  
