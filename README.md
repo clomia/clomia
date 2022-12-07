@@ -1,4 +1,4 @@
-# Python Specialist & Data Engineer  
+# Python Specialist & Software Engineer  
 
 Blog - [https://clomia.com](https://clomia.com)
 
